@@ -19,4 +19,4 @@ public class Scanner1 {
         double doubleValue = scanner.nextDouble();
         System.out.println("입력한 실수: " + doubleValue);
     }
-}
+}// 충돌충돌충돌충돌충돌충돌충돌충돌충돌충돌
